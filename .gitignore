@@ -1,0 +1,5 @@
+venv/
+*.log
+.env
+.coverage
+.DS_Store
