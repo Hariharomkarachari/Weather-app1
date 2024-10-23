@@ -35,7 +35,6 @@ There are 4 endpoints in this project:-
     │   ├── urls.py
     │   └── wsgi.py
     ├── .coveragerc
-    ├── .env
     ├── .gitignore
     ├── approach.md
     ├── docker-compose.yml
