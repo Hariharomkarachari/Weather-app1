@@ -1,0 +1,16 @@
+[run]
+omit =
+    */migrations/*
+    manage.py
+    */wsgi.py
+    */asgi.py
+    */__init__.py
+    */settings.py
+[report]
+omit =
+    */migrations/*
+    manage.py
+    */wsgi.py
+    */asgi.py
+    */__init__.py
+    */settings.py
